@@ -2,7 +2,7 @@
 """
 Created on Mon Aug 28 14:32:14 2023
 
-@author: seema
+@author: prakruthi
 """
 
 import cv2
